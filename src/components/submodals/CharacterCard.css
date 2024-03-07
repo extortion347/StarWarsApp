@@ -1,0 +1,816 @@
+
+
+
+.species-no-species {
+  background-color: #e0e0e0; /* Light gray */
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+}
+
+.species-pau-an {
+  background-color: #607d8b; 
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+}
+
+.species-human {
+  background-color: #ffe0b2;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;   
+}
+
+.species-droid {
+  background-color: #e0f7fa;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out; 
+}
+.species-wookie {
+  background-color: #e8eaf6;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out; 
+}
+
+.species-rodian {
+  background-color: #dcedc8;
+border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out; }
+
+  .species-yodas-species {
+    background-color: #b3e5fc; 
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;
+    transition: transform 0.2s ease-in-out;
+  }
+
+.species-twi-lek {
+  background-color: #f8bbd0;
+border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out; }
+
+.species-mon-calamari {
+  background-color: #b3e5fc;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out; 
+}
+
+.species-wilek {
+  background-color: #f06292; /* Your desired color for Twi'lek species */
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+}
+
+.species-sullustan {
+  background-color: #d7ccc8;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out; 
+}
+
+.species-toydarian {
+  background-color: #ffcdd2;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out; 
+}
+
+.species-trandoshan {
+  background-color: #c5e1a5;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;  
+}
+
+.species-zabrak {
+  background-color: #b0bec5;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out; 
+}
+.species-hutt {
+  background-color: #e0f7fa;
+ 
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;  
+}
+.species-ewok {
+  background-color: #c5e1a5;
+ 
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out; 
+}
+.species-dug {
+  background-color: #ffcc80;
+  
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;  
+}
+
+.species-gungan {
+  background-color: #c5e1a5;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out; 
+}
+
+.species-neimodian {
+  background-color: #ffcdd2;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out; 
+}
+
+.species-aleena {
+  background-color: #ffe0b2;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;  
+}
+.species-toong {
+  background-color: #f44336; 
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;  
+}
+
+.species-xexto {
+  background-color: #b39ddb; 
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out; 
+}
+
+.species-vulptereen {
+  background-color: #ffccbc;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out; 
+}
+
+.species-iktotchi {
+  background-color: #a1887f; /* Light brown for iktotchi species */
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out; 
+}
+
+.species-cerean {
+  background-color: #aed581; /* Light green for cerean species */
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out; 
+
+}
+
+.species-nautolan {
+  background-color: #f06292; 
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out; 
+}
+
+.species-tholothian {
+  background-color: #81d4fa;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out; 
+}
+.species-quermian {
+  background-color: #e57373;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out; 
+}
+
+.species-chagrian {
+  background-color: #9ccc65; 
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out; 
+}
+
+.species-geonosian {
+  background-color: #90a4ae; border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out; 
+}
+.species-kel-dor {
+  background-color: #ff7043; /* Your desired color for kel dor species */
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+}
+
+.species-mirialan {
+  background-color: #056a77; 
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out; 
+}
+
+.species-clawdite {
+  background-color: #8bc34a; 
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+}
+
+.species-besalisk {
+  background-color: #aa6b0c; 
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+}
+.species-kaminoan {
+  background-color: #8bc34a;   border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+}
+
+.species-skakoan {
+  background-color: #aa6b0c; 
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+}
+
+.species-muun {
+  background-color: #b0bec5; 
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+}
+
+.species-togruta {
+  background-color: #ffcc80; 
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+}
+
+.species-kaleesh {
+  background-color: #b2ebf2; 
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+}
+
+.species-pau-an {
+  background-color: #607d8b; 
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;/* Light blue-grey for Pau'an species */
+}
+
+/* Hover styles */
+.character-card:hover {
+ transform: scale(1.05);
+}
+
+.species-no-species:hover {
+  transform: scale(1.05);
+  
+  background-color: #3e7b9748; 
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+}
+
+.species-yodas-species:hover {
+  transform: scale(1.05); 
+
+  background-color: #3e7b9748; 
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+}
+
+.species-wilek:hover {
+  transform: scale(1.05);
+  background-color: #ec407a; /* Your desired hover color for Twi'lek species */
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+}
+
+.species-pau-an:hover {
+  transform: scale(1.05);
+  background-color: #607d8b; 
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+}
+
+.species-kaleesh:hover {
+  background-color: #041113; 
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+}
+
+.species-togruta:hover {
+  background-color: #ff9d0a; 
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+}
+
+.species-muun:hover {
+  background-color: #22acf1; 
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+}
+
+.species-skakoan:hover {
+  background-color: #352104; 
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+}
+
+.species-kel-dor:hover {
+  transform: scale(1.05);
+  background-color: #ff8a65; /* Your desired hover color for kel dor species */
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+}
+
+.species-kaminoan:hover {
+  background-color: #4d791c;   border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+}
+
+
+.species-besalisk:hover {
+  background-color: #643c00; 
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+}
+
+
+.species-clawdite:hover {
+  background-color: #5d803660; 
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+}
+
+.species-mirialan:hover {
+  background-color: #04444d65; 
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out; 
+}
+
+.species-geonosian:hover {
+  background-color: #021f2e; border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out; 
+}
+
+.species-chagrian:hover {
+  background-color: #0e1802; 
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out; 
+}
+
+.species-quermian:hover {
+  background-color: #920606;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out; 
+}
+
+.species-tholothian:hover {
+  background-color: #1b688b;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out; 
+}
+
+.species-nautolan:hover {
+  background-color: #680c2b; 
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out; 
+}
+
+.species-cerean:hover {
+  background-color: #91ff14; /* Light green for cerean species */
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out; 
+
+}
+
+.species-iktotchi:hover {
+  background-color: #2c1811; /* Light brown for iktotchi species */
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out; 
+}
+
+.species-xexto:hover {
+  background-color: #7b1fa2; 
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out; 
+}
+
+.species-vulptereen:hover {
+  background-color: #ff8a65;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out; 
+}
+
+.species-toong:hover {
+  background-color: #d32f2f;
+  border: 1px solid #ccc;
+  transform: scale(1.05);
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+ }
+
+.species-aleena:hover {
+  background-color: #7c623b;
+  transform: scale(1.05);
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;  
+}
+
+.species-neimodian:hover {
+  transform: scale(1.05);
+  background-color: #ffcdd2; 
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out; 
+}
+
+.species-gungan:hover {
+
+transform: scale(1.05);  
+  background-color: #c5e1a5; 
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out; 
+}
+
+.species-dug:hover {
+  transform: scale(1.05);
+  background-color: #aa6b0c;
+  
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;  
+}
+.species-ewok:hover {
+  transform: scale(1.05);
+  
+  background-color: #c5e1a5; 
+  
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out; 
+}
+
+.species-hutt:hover {
+  transform: scale(1.05);
+  background-color: #056a77;
+
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;  
+}
+
+.species-human:hover {
+  transform: scale(1.05);
+  background-color: #ffcc80;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out; 
+}
+
+.species-droid:hover {
+  transform: scale(1.05);
+  background-color: #b2ebf2;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out; 
+}
+.species-wookie:hover {
+  transform: scale(1.05);
+  background-color: #ce93d8;
+border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out; }
+
+.species-rodian:hover {
+  transform: scale(1.05);
+  background-color: #aed581;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out; 
+}
+
+.species-twi-lek:hover {
+  transform: scale(1.05);
+  background-color: #f06292;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out; 
+}
+.species-mon-calamari:hover {
+  
+  transform: scale(1.05);
+  background-color: #81d4fa;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out; 
+}
+
+
+.species-sullustan:hover {
+  transform: scale(1.05);
+  background-color: #a1887f;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out; 
+}
+
+.species-toydarian:hover {
+  transform: scale(1.05);
+  background-color: #e57373;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+ } 
+ .species-trandoshan:hover {
+ 
+ transform: scale(1.05); 
+ background-color: #9ccc65;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;  
+} 
+.species-zabrak:hover {
+  transform: scale(1.05);
+  background-color: #90a4ae;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out; 
+}
